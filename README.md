@@ -1,1 +1,1 @@
-My first readme
+My ALX coding journey 
